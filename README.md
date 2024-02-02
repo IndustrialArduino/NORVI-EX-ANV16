@@ -13,5 +13,5 @@ I2C Compatible
 16 Channel Analog Input expansion with True Differential Inputs
 8 x 0 – 2.5V Differential Inputs with 24V DC Operating Voltage
 
-Datasheet:   https://drive.google.com/open?id=1-zcklA2XWHX2C6x2GQccX90KGJbvJaaR&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1yIBrJRwmirJrEZ1k5WrgOtjUho42WlXo&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/datasheet-norvi-ex-anv16/
+User Guide:  https://norvi.lk/docs/user-guide-norvi-ex-anv16/
