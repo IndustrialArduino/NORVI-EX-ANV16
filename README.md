@@ -12,3 +12,6 @@ Models available with 0 – 10V Inputs / 4 – 20mA Inputs
 I2C Compatible
 16 Channel Analog Input expansion with True Differential Inputs
 8 x 0 – 2.5V Differential Inputs with 24V DC Operating Voltage
+
+Datasheet:   https://drive.google.com/open?id=1-zcklA2XWHX2C6x2GQccX90KGJbvJaaR&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1yIBrJRwmirJrEZ1k5WrgOtjUho42WlXo&usp=drive_fs
